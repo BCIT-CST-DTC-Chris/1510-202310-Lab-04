@@ -8,6 +8,8 @@ def fibonacci(nth_term):
     """
     Calculate the nth term in the Fibonacci sequence, starting with n = 0.
 
+    The Fibonacci sequence is 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... .
+
     :param nth_term: a positive integer
     :precondition: nth_term is a positive integer
     :postcondition: calculates the nth_term in the Fibonacci sequence
