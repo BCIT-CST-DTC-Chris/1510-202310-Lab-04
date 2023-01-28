@@ -24,7 +24,7 @@ def main():
     """
     Drive the program.
     """
-    print(fibonacci(30))
+    print(fibonacci(5))
 
 
 if __name__ == "__main__":
